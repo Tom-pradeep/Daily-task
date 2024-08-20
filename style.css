@@ -1,0 +1,21 @@
+.parent{
+    height: 500px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-template-rows: repeat(3,auto);
+    gap: 10px;
+}
+.d{
+    height: 250px;
+    width: 300px;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.gold{
+    background-color: goldenrod;
+}

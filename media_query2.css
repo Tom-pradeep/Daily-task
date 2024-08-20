@@ -1,0 +1,66 @@
+.parent {
+    width: 100%;
+    height: 700px;
+    
+    display: grid;    
+    grid-template-columns: repeat(4,auto);
+    grid-template-rows: repeat(3,auto);
+    
+    gap: 1rem;
+}
+
+.one {
+    background-color: green;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
+
+.two {
+    background-color: green;
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+
+.three {
+    background-color: green;
+}
+
+.four {
+    background-color: red;
+}
+
+.five {
+    background-color: green;
+}
+
+.six {
+    background-color: goldenrod;
+}
+
+.seven {
+    background-color: red;
+}
+
+.eight {
+    background-color: green;
+    grid-row-start: 2;
+    grid-row-end: 4;
+    grid-column-start: 4;
+    grid-column-end: 5;
+}
+
+.nine {
+    background-color: green;
+}
+
+.ten {
+    background-color: red;
+}
+
+.eleven {
+    background-color: goldenrod;
+}
+
+.twelve {
+    background-color: green;
+}

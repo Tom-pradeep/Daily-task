@@ -1,0 +1,355 @@
+.one{
+    background-image: url("cafe.png");
+    background-size: 100% 800px;
+    height: 800px;
+    width: 100%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-color:goldenrod;
+    border: solid 4px black;
+}
+.sticky ul{
+margin-left: 23%;
+
+}
+.sticky li{
+    float: left;
+    padding-left: 50px;
+    list-style: none;
+    font-size: large;
+    font-weight: 900;
+    color: green;
+}
+.sticky li:hover{
+    color:orange;
+    cursor: pointer;
+}
+.sticky{
+    position: sticky;top: 0px;
+   background-color: grey;
+   height: 20px;
+   width: 100%;
+   z-index: 0;
+}
+.sticky nav{
+    background-color: aqua;
+}
+
+
+.one h3:hover{
+    color: black;
+}
+
+.two{
+    
+        width: 100%;
+        height: 700px;
+        padding-top: 100px;
+        text-align: center;
+        background-color:lightgrey;
+        padding: 10px;
+        margin-top: 50px;
+    }
+    img{
+        width: 100%;
+        height: 300px;
+        border-radius: 10px;
+    }
+    .child1{
+        width: 50%;
+        height: 400px;
+    }
+    .child2{
+        width: 50%;
+        height: 400px;
+    }
+    .parent1{
+        display:flex;
+        justify-content: space-evenly;
+    }
+    .two h2:hover{
+color:cornflowerblue;
+}
+
+.two p{
+
+color: lightslategray;
+}
+.two p:hover{
+color: white;
+}
+.two p1{
+
+color: lightslategray;
+font-family:'Times New Roman', Times, serif
+}
+.two p1:hover{
+color: white;
+}
+
+
+span{
+font-size: xx-large;
+color: white;
+}
+span:hover{
+color: orange;
+}
+
+
+.two{
+    height: 500px ;
+    padding-top: 100px;
+    text-align: center;
+    background-color:lightgrey;
+    padding: 10px;
+    margin-top: 50px; 
+}  */
+img{
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+.child11{
+    width: 40%;
+    height: 400px;
+}
+.child12{
+    width: 50%;
+    height: 400px;
+}
+.parent1{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.two h2:hover{
+color:cornflowerblue;
+}
+
+.two p{
+
+color: lightslategray;
+}
+.two p:hover{
+color: white;
+}
+.two p1{
+
+color: lightslategray;
+font-family:'Times New Roman', Times, serif
+}
+.two p1:hover{
+color: white;
+}
+
+
+span{
+font-size: xx-large;
+color: white;
+}
+span:hover{
+color: orange;
+}
+.three{
+    background-image: url("cafe4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 250px;
+    height: 250px;
+    border-radius: 10px;
+    opacity: 0.8;
+    margin-top: 100px;
+    z-index: 1;
+}
+.h:hover{
+    color: white;
+    cursor: pointer;
+}
+.four h1{
+    letter-spacing: 2px;
+    word-spacing:3px;
+    color: rgb(95, 96, 96);
+}
+.four h2:hover{
+    color: black;
+}
+
+.four p{
+    font-weight: 400;
+    color: gray;
+}
+.four h1:hover{
+    color: black;
+}
+.four h2{
+    padding-left: 30px;
+    padding-top: 40px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: rgb(95, 96, 96);
+}
+.four p1{
+    padding-left: 30px;
+    letter-spacing: 1px;
+    color: gray;
+    line-height: 25px;
+}
+.four p1:hover{
+    color: white;
+}
+.four{
+    background-color: lightgrey;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 100px;
+   
+}
+.five{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-top: 100px;
+    z-index: 0;
+    text-align: center;
+    background-color:lightgrey;
+    padding: 10px;
+    height: 450px;
+    
+}
+
+#five{
+    height: 300px;
+    width: 40%;
+    border-radius: 10px;
+   
+    
+}
+.five h2:hover{
+    color:cornflowerblue;
+}
+
+.five p{
+    padding-left: 50px;
+    color: black;
+}
+.five p:hover{
+    color: white;
+}
+.five p1{
+    padding-left: 10px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.five p1:hover{
+    color: white;
+}
+
+.five2{
+    height: 60px;
+    width: 2px;
+    background-color:black;
+    float: right;
+    margin-right: 700px;
+}
+.six{
+   
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.six h3{
+    font-weight: 400;
+    font-size: medium;
+}
+.six p{
+    float: left;
+    text-align: justify;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    line-height: 20px;
+    color:lightslategray;
+    padding-left: 20px;
+    padding-top: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.six p:hover{
+    color: black;
+}
+.six1{
+    height: 70px;
+    width: 10px;
+    background-color:rgb(134, 132, 132);
+    float: left;
+    margin-right: 98%;
+    border-radius: 10px;
+}
+.six p1{
+   margin-top: 60px;
+   letter-spacing: 1px;
+   word-spacing: 3px;
+   line-height: 20px;
+   margin-left: 20px;
+   color: lightslategray;
+   font-family: 'Times New Roman', Times, serif;
+   
+}
+.six img{
+    height: 250px;
+    width: 45%;
+    float: right;
+    border-radius: 10px;
+}
+.six p1:hover{
+    color:rgb(211, 198, 198);
+}
+.seven{
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 50px;
+    background-color: lightgrey;
+    height: 400px;
+}
+.seven h2{
+    color: rgb(160, 163, 163);
+}
+.seven h2:hover{
+    color: white;
+}
+.seven h1{
+    color: rgb(86, 76, 76);
+}
+.seven h1:hover{
+    color: black;
+}
+span7{
+    color: black;
+}
+.seven ol{
+    padding-left: 40%;
+}
+.seven li{
+    font-size: xx-large;
+    float: left;
+    color: rgb(86, 76, 76);
+};
+.seven a{
+    color: black;
+}
+.seven a:visited{
+    color: rgb(241, 43, 82);
+}
+.seven a:hover{
+    color: black;
+}
+.seven span1:hover{
+    color: lime;
+}
+.seven span1{
+    color: white;
+    cursor: pointer;
+}
+html{
+    scroll-behavior:smooth;
+}
+a{
+    text-decoration-line: none;
+}
